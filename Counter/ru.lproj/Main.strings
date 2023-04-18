@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; configuration.title = "Сброс"; ObjectID = "7Af-hh-78E"; */
+"7Af-hh-78E.configuration.title" = "Сброс";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Af-hh-78E"; */
+"7Af-hh-78E.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "Ioo-mf-HAF"; */
+"Ioo-mf-HAF.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ioo-mf-HAF"; */
+"Ioo-mf-HAF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "text"; ObjectID = "Zs0-nk-y9y"; */
+"Zs0-nk-y9y.text" = "text";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "gsj-wx-sx8"; */
+"gsj-wx-sx8.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gsj-wx-sx8"; */
+"gsj-wx-sx8.normalTitle" = "Button";
